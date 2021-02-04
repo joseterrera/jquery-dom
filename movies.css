@@ -1,0 +1,17 @@
+form {
+    margin: 200px auto 20px;
+  }
+  table {
+    display: block;
+    border: 1px solid #ddd;
+    text-align: center;
+    margin: 20px auto;
+  }
+  th {
+    min-width: 200px;
+    /* border: 1px solid #ddd; */
+
+  }
+  td {
+    border: 1px solid #ddd;
+  }
